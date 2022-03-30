@@ -54,7 +54,7 @@ void details()
 {
 
 	printf("Enter your  name:\n");
-	scanf("%s", B.name);
+	scanf("%s", B.name[15]);
 	printf("Enter your survey Number:\n");
 	scanf("%d", &B.surveynum);
 
@@ -87,7 +87,7 @@ void red_gram()
     printf("****Harvester amount****\n\n");
     printf("Name : %s\n", B.name);
     printf("your red gram harvester bill is: %d\n", r_amount);
-    printf("the no of boxes of red gram is : %2.1f\n", B.no_of_boxes);
+    printf("the no of boxes of red gram is : %f\n", B.no_of_boxes);
     printf("rate per boxes is: %d\n",rate);
     printf("--------------------------------------------------------------\n\n5");
 }
@@ -118,7 +118,7 @@ void chik_pea()
     printf("****Harvester amount****\n\n");
     printf("Name : %s\n", B.name);
     printf("your chik pea harvester bill is: %d\n", ch_amount);
-    printf("the no of boxes of chik pea is : %2.1f\n", B.no_of_boxes);
+    printf("the no of boxes of chik pea is : %f\n", B.no_of_boxes);
     printf("rate per boxes is: %d\n",rate);
     printf("--------------------------------------------------------------\n\n5");
 }
@@ -149,7 +149,7 @@ void carom()
     printf("****Harvester amount****\n\n");
     printf("Name : %s\n", B.name);
     printf("your carom harvester bill is: %d\n", c_amount);
-    printf("the no of boxes of carom is : %2.1f\n", B.no_of_boxes);
+    printf("the no of boxes of carom is : %f\n", B.no_of_boxes);
      printf("rate per boxes is: %d\n",rate);
     printf("--------------------------------------------------------------\n\n5");
 
@@ -182,7 +182,7 @@ void sorghum()
     printf("****Harvester amount****\n\n");
     printf("Name : %s\n", B.name);
     printf("your carom harvester bill is: %d\n", s_amount);
-    printf("the no of acres of sorghum is : %2.1f\n", B.acres);
+    printf("the no of acres of sorghum is : %f\n", B.acres);
      printf("rate per acres is: %d\n",rate);
     printf("--------------------------------------------------------------\n\n5");
 
