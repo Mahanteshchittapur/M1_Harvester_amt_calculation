@@ -54,7 +54,7 @@ void details()
 {
 
 	printf("Enter your  name:\n");
-	scanf("%s", B.name[15]);
+	scanf("%s", B.name[]);
 	printf("Enter your survey Number:\n");
 	scanf("%d", &B.surveynum);
 
