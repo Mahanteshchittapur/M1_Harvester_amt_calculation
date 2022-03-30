@@ -160,15 +160,15 @@ void sorghum()
     printf("Enter no of acres\n");
     scanf("%f",&B.acres);
 
-    if(B.acres <=5.0 && B.acres >=0.0)
+    if(B.acres <=5.0 && B.acres >=0)
     {
         s_amount = B.acres * 1200;
     }
-    else if(B.acres >=10.0 && B.acres<=5.1)
+    else if(B.acres >=5.1 && B.acres<=10.o)
     {
         s_amount = B.acres * 1100;
     }
-    else if(B.acres >=15.1 && B.acres <= 10.1)
+    else if(B.acres >=10.1 && B.acres <= 15.0)
     {
         s_amount = B.acres* 1000;
     }
