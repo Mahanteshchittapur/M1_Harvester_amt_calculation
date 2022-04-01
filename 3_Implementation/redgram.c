@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include"Mainagri.h"
-int red_gram()
+void red_gram()
 {
     int r_amount=0;
     printf("Enter no of boxes:\n");
