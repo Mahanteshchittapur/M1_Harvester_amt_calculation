@@ -1,8 +1,8 @@
 #ifndef __Mainagri_H__
 #define __Mainagri_H__
 
-void details();
-void red_gram();
+//void details();
+int red_gram();
 void chik_pea();
 void carom();
 void sorghum();
