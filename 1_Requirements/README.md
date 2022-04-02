@@ -22,15 +22,15 @@ RESEARCH: People who don’t have technical knowledge of calculating Harvester a
 | HL01|Harvester amount calculation for red grams if( no of boxes>0 && no of boxes <=5)| Implemented |
 | HL02|Harvester amount calculation for red grams if( no of boxes>0 && no of boxes <=5)|Implemented|
 | HL03| Harvester amount calculation for red grams if( no of boxes>0 && no of boxes <=5)  |Implemented|
-| HL04 |Harvester amount calculation for red grams if( no of boxes>0 && no of boxes <=5)  |Implemented|
-| HL05 | Harvester amount calculation for	red grams if( no of boxes>6 && no of boxes <=10) |Implemented|
-| HL06 | Harvester amount calculation for red grams if( no of boxes>10 && no of boxes <=15) |Implemented|
-| HL07 |Harvester amount calculation for red grams if( no of boxes>0 && no of boxes <=5)  |Implemented|
-| HL08 |Harvester amount calculation for red grams if( no of boxes>6 && no of boxes <=10)  |Implemented|
-| HL09 | Harvester amount calculation for red grams if( no of boxes>10 && no of boxes <=15) |Implemented|
-| HL10 |Harvester amount calculation for red grams if( no of boxes>0 && no of boxes <=5)  |Implemented|
-| HL11 | Harvester amount calculation for red grams if( no of boxes>6 && no of boxes <=10) |Implemented|
-| HL12 |	Harvester amount calculation for red grams if( no of boxes>10 && no of boxes <=15)  |Implemented|
+| HL04 |Harvester amount calculation for chik peas if( no of boxes>0 && no of boxes <=5)  |Implemented|
+| HL05 | Harvester amount calculation for	 chik peas if( no of boxes>6 && no of boxes <=10) |Implemented|
+| HL06 | Harvester amount calculation for  chik peas if( no of boxes>10 && no of boxes <=15) |Implemented|
+| HL07 |Harvester amount calculation for carom if( no of boxes>0 && no of boxes <=5)  |Implemented|
+| HL08 |Harvester amount calculation for carom if( no of boxes>6 && no of boxes <=10)  |Implemented|
+| HL09 | Harvester amount calculation for carom if( no of boxes>10 && no of boxes <=15) |Implemented|
+| HL10 |Harvester amount calculation for sorghum if( no of acres>0 && no of acres<=5)  |Implemented|
+| HL11 | Harvester amount calculation for sorghum if( no of acres>6 && no of acres<=10) |Implemented|
+| HL12 |	Harvester amount calculation for sorghum if( no of acres>10 && no ofacres<=15)  |Implemented|
 
 
 ### Low Level Requirement
